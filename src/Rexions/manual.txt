@@ -1,0 +1,175 @@
+***********************************************************************
+*                             DOCUMENTACIÓN                           *
+***********************************************************************
+
+______________
+IDENTIFICACIÓN
+______________
+
+DATOS da aplicación:
+--------------------
+Nome da aplicación ....... : "Rexións"
+Propósito ................ : Ferramenta para a creación de arquivos de 
+                             rexións poligonais. Orixinariamente dise-
+                             ñada para a creación do "RiskO! v2.0"
+Versión .................. : 0.0.0.1  (non completamente rematada)
+Data ..................... : 12 de Xuño de 1997
+Sistema Operativo ........ : Windows 3.1x ou superior
+Linguaxe de programación . : Pascal para Windows (Borland 7.0)
+Requerimintos mínimos .... : Os do Sistema Operativo (386sx con 4mb de
+                             memoria RAM e Windows 3.1)
+
+DATOS do autor:
+---------------
+Nome ......... : Miguel
+Apelidos ..... : Gesteiro
+Dirección .... : xxxx
+                 xxxx
+Teléfono ..... : (xxx)YYYYYY
+
+
+
+_________________
+MANUAL DE USUARIO
+_________________
+
+INTRODUCCIÓN
+------------
+  A presente aplicación foi deseñada como ferramenta de apoio para a 
+creación de rexións poligonais para o xogo de estratexia "RiskO!", do
+mesmo autor.
+  Con esta ferramenta pódense crear, salvar e modificar ditas rexións
+de maneira fácil e rápida, e de forma totalmente visual, coma se de un
+programa de debuxo se tratase. 
+  Tamén ofrece opcións como a posibilidade de cargar un arquivo gráfico 
+(que podemos empregar coma plantilla ou patrón), a posibilidade de 
+"desfacer" se nos equivocamos e unha axuda interactiva.
+
+INSTRUCCIÓNS DE MANEXO
+----------------------
+  A aplicación manéxase básicamente cos botóns esquerdo e dereito do
+rato e os menús, e pódense facer as seguintes operación básicas (que
+corresponden a outras tantas opcións de menú, indicadas entre parén-
+teses).
+
+
+*AS OPCIONS do MENU "Arquivo":
+
+  CREACIÓN dun NOVO ARQUIVO de REXIONS:
+  Menú: Arquivo   Opción: Novo
+  
+   -Con este menú creamos un novo arquivo de rexións. Pregúntanos 
+    antes se queremos gardar o arquivo actual (se tiñamos algún)
+
+  APERTURA dun ARQUIVO de REXIONS:
+  Menú: Arquivo   Opción: Abrir
+
+   -Con esta opción podemos abrir un arquivo de rexións previamente
+    creado. Preséntanos un diálogo que nos permite navegar polas 
+    diversas unidades do ordenador para buscar o arquivo e abrilo.
+    Ó igual que facía a opción anterior, antes de abrir un arquivo
+    pregúntanos se queremos gardar o actual (se tiñamos algún).
+
+  GARDAR un ARQUIVO de REXIONS (e GARDAR COMO):
+  Menú: Arquivo   Opción: Gardar / Gardar como 
+  
+   -Con estas opcións podemos gardar o arquivo de rexións que temos
+    aberto actualmente. Se empregamos a opción "Gardar como", pre-
+    séntasenos un diálogo que nos permite escoller un novo nome e un
+    novo destino para o arquivo. Se escollemos a opción "Gardar",
+    gárdase o arquivo co nome actual (se tiñamos un), ou compórtase
+    de forma equivalente a "Gardar como" se non tiñamos ainda un 
+    nome.
+  
+  SAIR da APLICACIÓN:
+  Menú: Arquivo   Opción: Sair
+
+   -Con esta opción abandonamos a aplicación. Antes de sair comproba
+    se se grabou o arquivo e nos permite facelo se non se fixo.
+    Tamén se pode sair da aplicación pechando a ventá principal.
+
+*AS OPCIÓNS do MENÚ "Rexion":
+  
+  CREAR unha REXIÓN NOVA:
+  Menú: Rexión    Opción: Nova
+  
+   -Con esta opción se pode crear unha nova rexión. Pregúntasenos por
+    un nome e un número (para ordenar as distintas rexións), ainda que
+    xa se dan unhas opción por defecto.
+    Unha vez introducidos estes datos, podemos debuxala empregando o
+    botón esquerdo do rato: mentras manteñamos pulsado o botón
+    esquerdo e arrastremos o cursor pola pantalla non se debuxará o
+    sexmento, que se fará definitivo cando soltemos dito botón. Para
+    pechar a rexión, basta con que pulsemos o botón dereito.
+    A rexión seleccionada parpadeará, e para escoller outra, simple-
+    mente temos que pinchar sobre ela co rato.
+
+  ELIMINAR unha REXIÓN:
+  Menú: Rexión   Opción: Eliminar
+
+   -Con esta opción eliminamos a rexión actualmente seleccionada.
+  
+   NOTA: Se se elimina unha rexión distinta da última creada, créanse
+   "hocos" na estructura das rexións, e isto pode derivar na falla
+   de sitio para crear novas rexións a pesares de non terse alcanzado
+   o tope máximo. (Este detalle será corrixido na próxima versión).
+
+  DESFACER o ÚLTIMO PUNTO:
+  Menú: Rexión   Opción: Desfacer
+
+   -Non implementada todavía. Permitirá desfacer o último sexmento da
+    rexión que se está a debuxar actualmente.
+
+  NUMERAR as REXIÓNS:
+  Menú: Rexión   Opción: Numerar
+  
+   -Non implementada todavía. Permitirá cambiar a numeración (orde)
+    das rexións dentro do arquivo.
+  
+*AS OPCIÓNS do MENÚ "Especial":
+  
+  CARGAR un ARQUIVO GRÁFICO (imaxe bmp):
+  Menú: Especial  Opción: Cargar fondo
+ 
+   -Con esta opción ofrécesenos a posibilidade de cargar como fondo
+    da ventá principal un arquivo de imaxe de tipo bitmap (*.bmp).
+    Para elo aparece un diálogo que nos permite seleccionar o 
+    arquivo que desexemos.
+
+*AS OPCIÓNS do MENÚ "Axuda":
+
+   OBTER INFORMACIÓN:
+   Menú: Axuda    Opción: Sobre
+
+    -Esta opción proporciona datos sobre a aplicación: nome, autor
+     e versión.
+
+   OBTER AXUDA SOBRE O PROGRAMA:
+   Menú: Axuda    Opción: Contido
+
+    -Mediante esta opción, invocamos a axuda interactiva de Windows 
+     para esta aplicación (todavía non escrita...).
+
+
+__________________
+ACLARACIÓNS FINAIS
+__________________
+
+COUSAS POR FACER
+----------------
+  O programa comenzouse como unha ferramenta provisional, pero debido
+a súa utilidade, acabará por converterse nunha aplicación completa, e
+probablemente será ampliada en versións sucesivas.
+
+  Actualmente (versión 0.0.0.1) non ten implementadas tódas as 
+funcións que si figuran no menú debido a falla de tempo. Espérase que
+isto esté rematado para a primeira revisión completa (0.1.0.0).
+
+  Preténdes engadir o seguinte a aplicación:
+  - ficheiro de axuda de Windows (o mais explicativo posible)
+  - novas opcións para a edición de rexións
+  
+  Outras posibilidades mais remotas:
+  - Son
+  - soporte a travé de i-net
+  - manual en formato html

@@ -1,0 +1,39 @@
+-----------------------------------------------
+Rellena la siguiente ficha y envianosla a:
+
+  espiru@arrakis.es
+          o 
+  gesteiro@arrakis.es
+
+-----------------------------------------------
+Version de Risko: 00B
+-----------------------------------------------
+Tu nombre: Alfredo Novoa
+e-mail: anovoa@redestb.es
+Fecha: 11-1-97
+-----------------------------------------------
+BUGS:  (tipo de error, codigo, condiciones en 
+que se produjo, tipo de ordenador que tienes,
+y todo lo que consideres relevante)
+
+Pues me volvió a romper otra vez, jugando 
+normalmente en medio de una partida, y no se 
+por que.
+
+Creo que yo jugaba con el jugador 3, y ya 
+llevaba un buen rato, pero nadie tenia 99 
+ejercitos en ningún pais.
+
+Pueso esto:
+
+Runtime Error 201 at 0001:84D8
+
+
+-----------------------------------------------
+SUGERENCIAS para la proxima versión:
+
+¿Habría forma de mejorar la inteligencia 
+artificial del programa?
+
+
+-----------------------------------------------

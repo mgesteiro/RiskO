@@ -1,0 +1,30 @@
+-----------------------------------------------
+Rellena la siguiente ficha y envianosla a:
+
+  espiru@arrakis.es
+          o 
+  gesteiro@arrakis.es
+
+-----------------------------------------------
+Version de Risko:
+-----------------------------------------------
+Tu nombre:
+e-mail:
+Fecha:
+-----------------------------------------------
+BUGS:  (tipo de error, codigo, condiciones en 
+que se produjo, tipo de ordenador que tienes,
+y todo lo que consideres relevante)
+
+
+
+
+
+-----------------------------------------------
+SUGERENCIAS para la proxima versión:
+
+
+
+
+
+-----------------------------------------------

@@ -1,0 +1,34 @@
+RiskO! v0.0 beta
+
+  El RiskO, es un  juego  para  Windows, adaptado a partir del famoso juego de
+tablero, e  imitando  la  version  del  mismo  que  existe  para la familia de
+ordenadores Apple.
+
+  De hecho, nos  decidimos  a hacerlo  (somos dos los programadores) porque el
+juego nos gustaba mucho, y porque no conociamos la existencia de  una  version
+para  PC, asi que, ?por que no hacer nuestra propia version?..., asi podriamos
+jugar en casa al RiskO siempre que quisieramos...
+
+  Fue asi como nacio el proyecto RiskO, y parece que ha llegado a  buen fin...
+Bueno, esto ultimo no es tan cierto, ya que si  lo  probais, os  dareis cuenta
+de que todavia tiene errores...
+
+  Os prometemos que habra una primera version revisada... (envianos el fichero
+de Bug's cubierto para ayudarnos)
+
+  Por  cierto, si  os  gusta  -DISTRIBUIDLO-,  es  GRATIS,  FREEWARE,  o  como
+prefieras  llamarlo.  Pasaselo  a  tu  abuela, a tu novia, a tu novio, y si tu
+perro tiene ordenador, pues tambien...
+
+  Nota: el RiskO completo consta de los siguientes ficheros:
+
+    FILE_ID.DIZ  fichero con la descripcion, para las BBS, etc.
+    RISKO.EXE    el programa propiamente dicho
+    RISKO.001    fichero de datos imprescindible
+    RISKO.002    otro fichero de datos tambien imprescindible :)
+    RISKO.WRI    el fichero de ayuda (si, hecho en MS Write...) :(
+    BUGS.TXT     ficha para rellenar con los bugs que encontreis
+    INFO.TXT     esto que estas leyendo...(siempre  me  hizo  ilusion  escribir
+                 esta tonteria ;)
+
+  Deja ya de leer tonterias y pruebalo ya!

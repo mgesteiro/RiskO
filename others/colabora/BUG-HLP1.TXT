@@ -1,0 +1,32 @@
+Sugerencias para el Help-Risk:
+------------------------------
+
+-Indicar la versión tanto del fichero de ayuda como del programa
+
+-Eliminar el botón "X Back" de las páginas, por varios motivos:
+  A) El botón se ve mal en 16 colores (casi no se ve)
+  B) La propia ayuda tiene un botón para volver atrás
+  C) Ya tienes un "volver" al final de cada hoja (que por cierto
+     deberías justificar a la izquierda y poner en letras min.)
+  D) Queda como una patada en los güevos ;)
+
+-Deberías añadirle la sección de Búsqueda para los términos 
+ (es decir, crear una especie de colección de términos como 
+ "shift", "fortificar", "atacar", "estadísticas", etc. etc.)
+
+
+
+Proposiciones para el Help-Risk:
+--------------------------------
+
+-incluir "fotos" de los propios diálogos con una ayuda más
+ visual, de manera que cuando se pulse sobre alguna parte de esa
+ foto, te diga qué es y/o para que sirve.
+ (NOTA: para capturar pantallas en Windows, pulsar IMPR-PANT y/o
+ SHIFT+IMPR-PANT, irán a l portapapeles, y que sean en 16 
+ colores!)
+
+
+-En la versión final tenemos que poner uno o varios "Cheats" que
+ deberían figurar en el fichero help en algún sitio... aunque 
+ fuese inaccesible directamente ;) (¿que te parece?)

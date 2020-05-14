@@ -1,0 +1,41 @@
+-----------------------------------------------
+Rellena la siguiente ficha y envianosla a:
+
+  espiru@arrakis.es
+          o 
+  gesteiro@arrakis.es
+
+-----------------------------------------------
+Version de Risko: La £ltima
+-----------------------------------------------
+Tu nombre: Santos ( como no )
+e-mail: Ya la sabes
+Fecha: Mira la fecha del correo
+-----------------------------------------------
+BUGS:  (tipo de error, codigo, condiciones en 
+que se produjo, tipo de ordenador que tienes,
+y todo lo que consideres relevante)
+
+Siempre que al hacer un ataque parcial no quedan soldados que redistribuir
+se produce un error, no s‚ si siempre es el mismo c¢digo ( supongo que si ), 
+pero el que yo pill‚ era:
+        
+        Runtime error 201 at 0001:2DD3
+
+Considero relevante que para hacer un programa hace falta algo m s que
+conocer la sintaxis.
+
+A ver si el siguiente no se cuelga.
+
+
+
+
+
+-----------------------------------------------
+SUGERENCIAS para la proxima versión:
+
+
+
+
+
+-----------------------------------------------

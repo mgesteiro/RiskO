@@ -1,0 +1,30 @@
+-----------------------------------------------
+Rellena la siguiente ficha y envianosla a:
+
+  espiru@arrakis.es
+          o 
+  gesteiro@arrakis.es
+
+-----------------------------------------------
+Version de Risko: 00B
+-----------------------------------------------
+Tu nombre: Sujerencias por IRC
+e-mail: 
+Fecha: 15-1-97
+-----------------------------------------------
+BUGS:  (tipo de error, codigo, condiciones en 
+que se produjo, tipo de ordenador que tienes,
+y todo lo que consideres relevante)
+
+No funciona bien en todos los modos graficos
+y (creo) tipos de letra.
+
+-----------------------------------------------
+SUGERENCIAS para la proxima versión:
+
+Que se juegue con una opcion como el juego de 
+tablero con objetivos. Que se marque el pais 
+selecionado con una especie de parpadeo. Que 
+no esté fijo en la pantalla.
+
+-----------------------------------------------

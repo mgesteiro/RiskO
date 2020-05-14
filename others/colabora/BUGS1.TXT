@@ -1,0 +1,30 @@
+-----------------------------------------------
+Rellena la siguiente ficha y envianosla a:
+
+  espiru@arrakis.es
+          o 
+  gesteiro@arrakis.es
+
+-----------------------------------------------
+Version de Risko: 00B
+-----------------------------------------------
+Tu nombre: Alfredo Novoa
+e-mail: anovoa@redestb.es
+Fecha: 8-1-97
+-----------------------------------------------
+BUGS:  (tipo de error, codigo, condiciones en 
+que se produjo, tipo de ordenador que tienes,
+y todo lo que consideres relevante)
+
+Cuando un jugador tiene 99 ejercitos en todos los paises el 
+programa rompe.
+
+
+-----------------------------------------------
+SUGERENCIAS para la proxima versión:
+
+
+
+
+
+-----------------------------------------------

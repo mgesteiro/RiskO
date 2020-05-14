@@ -1,0 +1,25 @@
+-----------------------------------------------
+Rellena la siguiente ficha y envianosla a:
+  espiru@arrakis.es
+          o 
+  gesteiro@arrakis.es
+-----------------------------------------------
+Version de Risko: 0.0 beta
+-----------------------------------------------
+Tu nombre: Gaspar Rey	
+e-mail: agnam@geocities.com
+Fecha: 31/01/1997
+-----------------------------------------------
+BUGS:  (tipo de error, codigo, condiciones en 
+que se produjo, tipo de ordenador que tienes,
+y todo lo que consideres relevante)
+
+Ninguno.
+-----------------------------------------------
+SUGERENCIAS para la proxima versión:
+
+Misiones diferentes, como en el juego real;
+varios niveles de dificultad;
+gráficas lineales o de barras para las 
+estadísticas.
+-----------------------------------------------
